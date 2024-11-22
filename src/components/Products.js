@@ -15,7 +15,7 @@ const infromation = [
     price: "$200.20",
   },
   {
-    id: 1,
+    id: 2,
     src: shoe2,
     star: <TiStarFullOutline size={20} className="text-orange-500" />,
     rating: "(4.5)",
@@ -23,7 +23,7 @@ const infromation = [
     price: "$200.20",
   },
   {
-    id: 1,
+    id: 3,
     src: shoe3,
     star: <TiStarFullOutline size={20} className="text-orange-500" />,
     rating: "(4.5)",
@@ -31,7 +31,7 @@ const infromation = [
     price: "$200.20",
   },
   {
-    id: 1,
+    id: 4,
     src: shoe4,
     star: <TiStarFullOutline size={20} className="text-orange-500" />,
     rating: "(4.5)",
