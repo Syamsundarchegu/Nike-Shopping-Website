@@ -37,7 +37,7 @@ const Customer = () => {
       <div className="flex md:justify-between gap-6 md:flex-row flex-col">
         {information.map(({ id, src, description, star, rating }) => (
           <div key={id} className="flex flex-col items-center md:gap-5 gap-2">
-            <img src={src} className="rounded-full w-28" />
+            <img src={src} className="rounded-full w-28" alt="deli" />
             <p className="text-gray-400 md:max-w-lg max-w-sm md:text-lg text-sm">
               {description}
             </p>
