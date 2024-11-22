@@ -1,0 +1,6 @@
+.bg-hero {
+  background-image: url("../assets/collection-background.svg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
